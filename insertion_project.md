@@ -29,4 +29,4 @@
 - 4.adım: [2,3,4,5,6,9,8,15,7]
 
 ---
-[patika](www.patika.dev)
+[patika](https://www.patika.dev/tr)
